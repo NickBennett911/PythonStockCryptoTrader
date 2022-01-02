@@ -1,0 +1,2 @@
+Company,Hours_Observed,Crosses,True_Positive,False_Positive,True_Negative,False_Negative,Sensitivity,Specificity,Accuracy,TPR,FPR
+DOGE,734,132,33,19,31,49,0.4024390243902439,0.62,0.48484848484848486,0.4024390243902439,0.38

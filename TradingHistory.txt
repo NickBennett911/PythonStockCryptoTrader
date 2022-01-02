@@ -1,0 +1,42 @@
+----------------------------
+Trading Session Finish Time: 01/01/2022 11:22PM
+------- Purchase History and Info -------
+----------- Purchase 0 -----------
+{'account_id': '60988908-c584-426b-af6f-21bf9ebacdad', 'average_price': None, 'cancel_url': 'https://nummus.robinhood.com/orders/61d1286c-4fd8-42c3-9d3f-c2178f5a16c0/cancel/', 'created_at': '2022-01-01T23:22:04.517072-05:00', 'cumulative_quantity': '0.000000000000000000', 'currency_pair_id': '1ef78e1b-049b-4f12-90e5-555dcf2fe204', 'entered_price': '0.510000000000000000', 'executions': [], 'id': '61d1286c-4fd8-42c3-9d3f-c2178f5a16c0', 'initiator_id': None, 'initiator_type': None, 'last_transaction_at': None, 'price': '0.172800000000000000', 'quantity': '3.000000000000000000', 'ref_id': '0d52224f-37da-49a4-9055-71c464eb7488', 'rounded_executed_notional': '0.00', 'side': 'buy', 'state': 'unconfirmed', 'time_in_force': 'gtc', 'type': 'market', 'updated_at': '2022-01-01T23:22:04.743367-05:00'}
+Summary of above purchase:
+Number of Units Purchased: 3.0
+Price Per Unit: 0.1728
+Total Cost: 0.5184
+----------- Purchase 1 -----------
+{'account_id': '60988908-c584-426b-af6f-21bf9ebacdad', 'average_price': None, 'cancel_url': 'https://nummus.robinhood.com/orders/61d12878-d338-4d19-ab47-bdee8d804ed2/cancel/', 'created_at': '2022-01-01T23:22:16.929808-05:00', 'cumulative_quantity': '0.000000000000000000', 'currency_pair_id': '1ef78e1b-049b-4f12-90e5-555dcf2fe204', 'entered_price': '0.680000000000000000', 'executions': [], 'id': '61d12878-d338-4d19-ab47-bdee8d804ed2', 'initiator_id': None, 'initiator_type': None, 'last_transaction_at': None, 'price': '0.172800000000000000', 'quantity': '4.000000000000000000', 'ref_id': '2022725d-da98-4058-b11b-519e28b2e057', 'rounded_executed_notional': '0.00', 'side': 'buy', 'state': 'unconfirmed', 'time_in_force': 'gtc', 'type': 'market', 'updated_at': '2022-01-01T23:22:17.144771-05:00'}
+Summary of above purchase:
+Number of Units Purchased: 4.0
+Price Per Unit: 0.1728
+Total Cost: 0.6912
+
+Total Cost of All Units: $1.2096
+Total Number of Units Purchased: 7.0
+
+------- Sell History and Info -------
+----------- Sale 0 -----------
+{'account_id': '60988908-c584-426b-af6f-21bf9ebacdad', 'average_price': None, 'cancel_url': 'https://nummus.robinhood.com/orders/61d12872-838d-44e7-a481-15cfbd5bee47/cancel/', 'created_at': '2022-01-01T23:22:10.495103-05:00', 'cumulative_quantity': '0.000000000000000000', 'currency_pair_id': '1ef78e1b-049b-4f12-90e5-555dcf2fe204', 'entered_price': '0.900000000000000000', 'executions': [], 'id': '61d12872-838d-44e7-a481-15cfbd5bee47', 'initiator_id': None, 'initiator_type': None, 'last_transaction_at': None, 'price': '0.171800000000000000', 'quantity': '5.000000000000000000', 'ref_id': '79a0bef1-72dc-44f7-98c4-1d6469b779be', 'rounded_executed_notional': '0.00', 'side': 'sell', 'state': 'unconfirmed', 'time_in_force': 'gtc', 'type': 'market', 'updated_at': '2022-01-01T23:22:10.495132-05:00'}
+Summary of above sale:
+Number of Units Sold: 5.0
+Price Per Unit: 0.1718
+Total Sale Price: 0.859
+----------- Sale 1 -----------
+{'account_id': '60988908-c584-426b-af6f-21bf9ebacdad', 'average_price': None, 'cancel_url': 'https://nummus.robinhood.com/orders/61d1287d-df3a-432e-b967-9427e64ceb2a/cancel/', 'created_at': '2022-01-01T23:22:21.421518-05:00', 'cumulative_quantity': '0.000000000000000000', 'currency_pair_id': '1ef78e1b-049b-4f12-90e5-555dcf2fe204', 'entered_price': '0.900000000000000000', 'executions': [], 'id': '61d1287d-df3a-432e-b967-9427e64ceb2a', 'initiator_id': None, 'initiator_type': None, 'last_transaction_at': None, 'price': '0.171800000000000000', 'quantity': '5.000000000000000000', 'ref_id': '9b3437c5-5d84-43fa-b63a-5b11352662e4', 'rounded_executed_notional': '0.00', 'side': 'sell', 'state': 'unconfirmed', 'time_in_force': 'gtc', 'type': 'market', 'updated_at': '2022-01-01T23:22:21.421543-05:00'}
+Summary of above sale:
+Number of Units Sold: 5.0
+Price Per Unit: 0.1718
+Total Sale Price: 0.859
+
+Total Return on All Units Sold: $1.718
+Total Number of Units Sold: 10.0
+
+------- Overall History and Info -------
+Total Units Purchased: 7
+Total Units Sold: 10
+Total Spent: $1.2096, on 7.0 units in total
+Total Sold: $1.718, from 10.0 total units sold
+Net Total at End: $0.5084
